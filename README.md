@@ -1,6 +1,6 @@
 # Employee Management System (EMS) 👩‍💼👨‍💼
 
-## Project Overview 🌟
+## Overview 🌟
 
 The Employee Management System (EMS) is a web application designed to streamline HR operations. It provides a centralized platform for managing employee information, tracking performance, generating reports, and integrating with other systems. Built using Java, Spring Boot, React, and PostgreSQL, EMS simplifies HR tasks with user authentication, role management, and performance tracking.
 
